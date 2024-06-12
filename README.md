@@ -20,8 +20,8 @@
   <p>To get started with this project, you need to have Java installed on your system. Clone this repository to your local machine and open it in your preferred Java development environment.</p>
   <h3>Prerequisites</h3>
   <ul>
-    <li>Java Development Kit (JDK) 8 or higher</li>
-    <li>A Java IDE (e.g., IntelliJ IDEA, Eclipse)</li>
+    <li>Java Development Kit (JDK) 17 or higher</li>
+    <li>A Java IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans)</li>
   </ul>
     <h2 id="data-structures">Data Structures</h2>
     <h3 id="priority-queue-heap">Priority Queue (Heap)</h3>
